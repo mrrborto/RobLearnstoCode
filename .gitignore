@@ -1,9 +1,9 @@
 #Unity git Ignore file
 
 #folders
-/Library/
-/Temp/
-/Builds/
+*/Library/*
+*/Temp/*
+*/Builds/*
 
 #file types
 *.pidb
