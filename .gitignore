@@ -1,0 +1,13 @@
+#Unity git Ignore file
+
+#folders
+/Library/
+/Temp/
+/Builds/
+
+#file types
+*.pidb
+*.userprefs
+*.DS_Store
+*.csproj
+*.sln
